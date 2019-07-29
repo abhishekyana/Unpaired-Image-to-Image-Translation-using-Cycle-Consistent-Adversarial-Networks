@@ -1,2 +1,2 @@
 # Unpaired-Image-to-Image-Translation-using-Cycle-Consistent-Adversarial-Networks
-Implemented a Paper and applied to convert the Natural Image to Anime style Image
+# This project is moved to this repo, [Thank you](https://github.com/abhishekyana/CycleGANs-PyTorch).
